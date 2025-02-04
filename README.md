@@ -1,2 +1,2 @@
-# Projeto_peixe
+# Projeto Peixe
 Projeto individual, envolve JavaScript e HTML
